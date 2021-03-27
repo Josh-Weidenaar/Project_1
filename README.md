@@ -1,0 +1,2 @@
+# Project_1
+What question are we trying to answer? What is the story we want to tell? Impact of covid on Illinois communities and restaurants How covid impacted restaurants in Chicago, which neighborhoods were affected what about minorities Restaurants shut down, successful ones? Impact on their communities was the grant helpful for those restaurants? Neighborhood characteristics ( Josh) Data source: Yelp, google map(restaurants that close due to covid),
