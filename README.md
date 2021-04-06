@@ -1,4 +1,4 @@
-### Summary:
+#Summary:
 
 With stay-at-home orders imposed due  to COVID-19, it is clear that the USA economy got hit. One of the industry that got impacted the most was the restaurant industry. Perhaps, the question we may all ask at this point is how bad? 
 
@@ -9,10 +9,17 @@ we hope to uncover the many ways Covid-19 has upended the way of life for many C
 
 # Food Service Industry 
 Chicago Eater, Illinois Department of Commerce & Economic Opportunity BIG Recipient Data, Chicago Metropolitan Agency of Planning Neighborhood Profile Data
-Health
+# Health
 City of Chicago Open Data Portal, City of Chicago Department of Public Health
-Supplemental
+# Supplemental
 Google Mobility Data
 
+### Findings
 
-What question are we trying to answer? What is the story we want to tell? Impact of covid on Illinois communities and restaurants How covid impacted restaurants in Chicago, which neighborhoods were affected what about minorities Restaurants shut down, successful ones? Impact on their communities was the grant helpful for those restaurants? Neighborhood characteristics ( Josh) Data source: Yelp, google map(restaurants that close due to covid),
+Restaurants were the hardest hit businesses by the pandemic, necessitating a large influx of federal and state aid to stay afloat
+There were more restaurants that closed permanently than temporary
+Restaurant closures occurred more frequently in neighborhoods with strong commercial corridors, but service workers are not as likely to live in those neighborhoods
+The downturn experienced by restaurants in Chicago has a disproportionate impact on residents of lower income Chicago neighborhoods
+
+
+
