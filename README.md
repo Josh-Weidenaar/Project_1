@@ -1,9 +1,8 @@
 # Summary:
 
-With stay-at-home orders imposed due  to COVID-19, it is clear that the USA economy got hit. One of the industry that got impacted the most was the restaurant industry. Perhaps, the question we may all ask at this point is how bad? 
+With stay-at-home orders imposed due to COVID-19, it is clear that the USA economy took a significant plunge with the restaurant industry being the most heavily impacted. Perhaps, the question we may all ask at this point is how bad? We seek to discover the severity of this impact on Chicago restaurants and its workers.
 
-To answer this question, We conducted an analysis on the impact COVID-19 had on the dining industry in the chicagoland, as well as the neighborhoods affected. We believe, this analysis can inform and help, policy makers, business owners, and other interested parties vizualise the impact of the pandemic on the chicago Restaurants industry. We also want to shed light on how mobility and consumer expenditures were impacted by the prevalence of Covid-19 in Chicago neighborhoods
-we hope to uncover the many ways Covid-19 has upended the way of life for many Chicagoans and those most impacted
+We conducted an analysis on COVID-19's impact on the dining industry in Chicago, as well as the specific neighborhoods affected. This analysis can inform and help policy makers, business owners, and other interested parties visualize the impact of the pandemic on Chicago restaurants.
 
 # Data Sources
 
@@ -17,9 +16,12 @@ Google Mobility Data
 # Findings
 
 Restaurants were the hardest hit businesses by the pandemic, necessitating a large influx of federal and state aid to stay afloat
-There were more restaurants that closed permanently than temporary
-Restaurant closures occurred more frequently in neighborhoods with strong commercial corridors, but service workers are not as likely to live in those neighborhoods
-The downturn experienced by restaurants in Chicago has a disproportionate impact on residents of lower income Chicago neighborhoods
+
+There were more restaurants that closed permanently than temporarily
+
+Restaurant closures occurred more frequently in neighborhoods with strong commercial corridors, but service workers are not likely to live in those neighborhoods
+
+The downturn experienced by restaurants in Chicago had a disproportionate impact on residents of lower income Chicago neighborhoods
 
 
 
