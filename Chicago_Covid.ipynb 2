@@ -2880,24 +2880,6 @@
   {
    "cell_type": "markdown",
    "metadata": {},
-   "source": [
-    "clean.to_csv(\"clean_chicago_data.csv\", index = False)\n"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 275,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "clean.to_csv(\"clean_chicago_data.csv\", index = False)\n"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
    "source": []
   }
  ],
